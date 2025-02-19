@@ -101,7 +101,7 @@ def cdf_message(value):
         return f'Very lucky! There was only a'
 
 # Streamlit interface
-st.title("Fibonacci Dozens Betting Simulator")
+st.title("Padovan Double Streets Betting Simulator")
 
 # User inputs
 start_balance = st.number_input("Starting Balance", 
